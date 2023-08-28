@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋, I am Dingrong Wang, a 3rd year Ph.D. Student in Computer Science working at Machine Learning and Data Intensive Computing Lab, RIT. 
+Hi there 👋, I am Dingrong Wang, a 4th year Ph.D. Student in Computer Science working at Machine Learning and Data Intensive Computing Lab, RIT. 
 
 🔭 I am interested in developing reinforcement learning algorithms to solve real-world problems.
 
